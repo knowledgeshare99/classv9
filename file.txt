@@ -2,3 +2,4 @@ hello
 how are you?
 i am 3rd line
 4th line add and checking for remote and local git repo
+adding last line for feature
